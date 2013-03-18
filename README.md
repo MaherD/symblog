@@ -17,3 +17,8 @@ The demo site for this project can be found at http://symblog.co.uk
  6. Load fixtures with 'php app/console doctrine:fixtures:load'
 
 
+=======
+FOSRestBundle
+=============
+
+This Bundle provides various tools to rapidly develop RESTful API's with Symfony2 
